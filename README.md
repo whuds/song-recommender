@@ -28,4 +28,6 @@ The jupyter notebook, `collaborative-filtering-millionsongs.ipynb` contains the 
 The jupyter notebook, `ContentBasedNearestNeighbors_millionsongs.ipynb` contains the code and work done for content-based filtering.
 
 ## Hybrid Filtering
-The jupyter notebook, `hybrid_recommender.ipynb` contains the experiments regarding the hybrid model. The python file `hybrid_recommender.py` contains the implementation of the hybrid model.
+The jupyter notebook, `hybrid_recommender.ipynb` inside the file `hybrid_recommender.zip` contains the experiments regarding the hybrid model. The python file `hybrid_recommender.py` contains the implementation of the hybrid model.
+
+Teammates: Sung Jae (Roy) Hong, Pranshu Trivedi
