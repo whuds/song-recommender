@@ -1,3 +1,5 @@
+For an overview, view `Presentation.pdf` or read the more detailed `Report.pdf`
+
 # Environment
 1. `pip install -r requirements.txt` to install all packages required for this project.
 
